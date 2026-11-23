@@ -6,6 +6,8 @@ public static void main(String[] args) {
 		
 		System.out.println("This is cherry Page");
 		System.out.println("This is cherry Page edition");
+		int sal=100;
+		
 		
 
 	}
