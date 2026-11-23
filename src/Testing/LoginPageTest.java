@@ -7,6 +7,7 @@ public class LoginPageTest {
 		String username="Nila";
 		String password="Nila123";
 		System.out.println("User has logged in successfully ");
+		System.out.println("User has logged out successfully ");
 	}
 
 }
