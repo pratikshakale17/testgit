@@ -7,6 +7,8 @@ public class ClassicPage {
 		int m2=30;
 		System.out.println(m1*m2);
 		System.out.println("merge conflict are solved");
+			int i=10;
+		String nameString="name";
 		
 	}
 }
