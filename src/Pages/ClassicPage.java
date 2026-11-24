@@ -15,6 +15,10 @@ public class ClassicPage {
 		String name1="name";
 		
 		String name33="name";
+
+
+		int t=10;
+		int y=22;
 		
 		
 	}
