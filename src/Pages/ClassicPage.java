@@ -2,9 +2,13 @@ package Pages;
 
 public class ClassicPage {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public void math() {
+		int m1=10;
+		int m2=30;
+		System.out.println(m1*m2);
+		System.out.println("merge conflict are solved");
+		
 	}
-
 }
+
+
