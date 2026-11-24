@@ -17,5 +17,8 @@ public void test() {
 	System.out.println("This is cherry Page");
 }
 
-	
+public void test2() {
+System.out.println("This is cherry Page2");
+System.out.println("wretre");
+}	
 }
