@@ -20,6 +20,9 @@ public class ClassicPage {
 		int t=10;
 		int y=22;
 		
+		int t1=10;
+		int y2=22;
+		
 		
 	}
 }
