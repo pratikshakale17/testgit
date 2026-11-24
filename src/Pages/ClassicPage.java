@@ -14,6 +14,8 @@ public class ClassicPage {
 		String name="name";
 		String name1="name";
 		
+		String name33="name";
+		
 		
 	}
 }
