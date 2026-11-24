@@ -19,6 +19,8 @@ public class ClassicPage {
 
 		int t=10;
 		int y=22;
+
+		System.out.println("merge conflict are solved");
 		
 		int t1=10;
 		int y2=22;
