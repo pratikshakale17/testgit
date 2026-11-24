@@ -10,6 +10,10 @@ public class ClassicPage {
 			int i=10;
 		String nameString="name";
 		
+		int h=10;
+		String name="name";
+		
+		
 	}
 }
 
