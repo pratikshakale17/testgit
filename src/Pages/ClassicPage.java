@@ -12,6 +12,7 @@ public class ClassicPage {
 		
 		int h=10;
 		String name="name";
+		String name1="name";
 		
 		
 	}
